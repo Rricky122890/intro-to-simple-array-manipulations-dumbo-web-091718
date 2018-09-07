@@ -8,4 +8,4 @@ def using_unshift(arr, str)
   return arr 
 end 
 
-def
+def using_pop(arr)
