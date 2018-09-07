@@ -18,9 +18,9 @@ def pop_with_args(arr)
   return popped
 end 
 
-def using_shift 
+def using_shift(arr) 
   arr.shift 
-  return shift 
+  return arr 
 end
 
 def shift_with_args(arr)
