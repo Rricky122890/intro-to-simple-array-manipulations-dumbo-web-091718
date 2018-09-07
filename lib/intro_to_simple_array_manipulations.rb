@@ -40,7 +40,7 @@ end
 
 def using_uniq(arr)
   arr.uniq
-  return arr
+  
 end
 
 def using_flatten(arr)
