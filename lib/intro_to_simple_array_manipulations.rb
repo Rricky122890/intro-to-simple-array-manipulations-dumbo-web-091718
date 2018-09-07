@@ -35,4 +35,5 @@ end
 
 def using_insert(arr, str)
   arr.insert(4, str)
+  return arr
 end   
