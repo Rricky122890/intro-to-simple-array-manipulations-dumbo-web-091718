@@ -18,6 +18,10 @@ def pop_with_args(arr)
   return popped
 end 
 
+def using_shift 
+  arr.shift 
+  return shift 
+end
+
 def 
-  
-end   
+end 
