@@ -45,7 +45,7 @@ end
 
 def using_flatten(arr)
   arr.flatten
-  return arr
+  
 end
 
 def using_delete(arr, str)
