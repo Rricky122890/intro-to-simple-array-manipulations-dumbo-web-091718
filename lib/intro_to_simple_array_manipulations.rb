@@ -13,5 +13,11 @@ arr.pop
 return arr
 end  
 
-def pop_with_args( )
+def pop_with_args(arr)
+  popped = arr.pop(2)
+  return popped
 end 
+
+def 
+  
+end   
