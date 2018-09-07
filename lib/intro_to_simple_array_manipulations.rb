@@ -33,5 +33,6 @@ def using_concat(arr, arr1)
   return arr2 
 end
 
-def 
+def using_insert(arr, str)
+  arr.insert(4, str)
 end   
