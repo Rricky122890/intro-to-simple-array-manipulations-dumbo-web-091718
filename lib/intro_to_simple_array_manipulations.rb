@@ -28,5 +28,6 @@ def shift_with_args(arr)
   return ahifted
 end 
 
-def using_concat
+def using_concat(arr, arr1)
+  arr2 = arr.concat(arr1)
 end   
