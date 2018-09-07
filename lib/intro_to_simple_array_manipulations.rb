@@ -20,7 +20,7 @@ end
 
 def using_shift(arr) 
   arr.shift 
-  return arr 
+   
 end
 
 def shift_with_args(arr)
