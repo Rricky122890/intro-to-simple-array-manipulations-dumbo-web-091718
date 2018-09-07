@@ -45,12 +45,15 @@ end
 
 def using_flatten(arr)
   arr.flatten
+  return arr
 end
 
 def using_delete(arr, str)
   arr.delete(str)
+  return arr
 end
  
 def using_delete_at(arr, int)
   arr.delete_at(int)
+  return arr
 end
